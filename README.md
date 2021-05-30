@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sadik-Said
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sadik.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning data analysis using python.
+- 💞️ I’m looking to collaborate on case study analysis.
+- 📫 How to reach me siddigburhan@gmail.com
 
 <!---
 Sadik-Said/Sadik-Said is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
